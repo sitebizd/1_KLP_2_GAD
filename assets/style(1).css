@@ -3,7 +3,7 @@ section {
   background-color: #ffffff;
 }
 
-body {
+body {background-color: #ffffff;
   font-style: normal;
   line-height: 1.5;
   font-weight: 400;
@@ -18,7 +18,7 @@ button {
 
 section,
 .container,
-.container-fluid {
+.container-fluid {background-color: #ffffff;
   position: relative;
   word-wrap: break-word;
 }
@@ -733,7 +733,7 @@ input[type=range] {
 }
 
 html,
-body {
+body {background-color: #ffffff;
   height: auto;
   min-height: 100vh;
 }
